@@ -1,9 +1,3 @@
----------------------------------------------------------------------------------
-created by: HELOISA G VICENCIO
-MY REPLIT API: https://replit.com/@HeloisaGoulart/codeAPI#main.py (pls select MAIN.PY to vizualize the code. :))
-
-CODE:
----------------------------------------------------------------------------------
 
 import pyttsx3 as pyttsx
 
@@ -54,5 +48,3 @@ while True:
     except:
         print('Enter again!')
         
---------------------------------------------------------------------------
-END.
