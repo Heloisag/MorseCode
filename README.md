@@ -1,15 +1,15 @@
 # MorseCode
-Em minha resolução, criei um projeto utilizando a linguagem de programação PYTHON e o tão conhecido código morse.
+Em minha resolução, criei um projeto utilizando a linguagem de programação PYTHON e o tão conhecido código Morse.
 # Objetivo
-Como proposto no desafio, realizei uma aplicação relativamente simplês de uma API em pyhon. Com o objetivo de codificar frases para o código morse e tambem, decodificar frases em códigos morse.  
+Como proposto no desafio, realizei uma aplicação relativamente simples de uma API em pyhon. Com o objetivo de codificar frases para o código Morse e, decodificar frases em códigos Morse.
 # Interface
-O programa em si contém aplicaçoes diretas, e uma interface simplês permitindo que o usuario consiga facilmente entender o funcionamento do mesmo. Ele contém um menu com três opções de escolha e uma mensagem que pede ao usuario para tomar uma desição.
+O programa em si contém aplicações diretas, e uma interface simples permitindo que o usuário consiga facilmente entender o funcionamento dele. Ele contém um menu com três opções de escolha e uma mensagem que pede ao usuário para tomar uma decisão.
 
-Desta forma, caso a escolha tenha sido a primeira (codificar uma frase para o codigo morse) aparecerá uma mensagem na tela para o usúario digitar a frase desejada e logo após, ela é transcrita em Morse. 
+Desta forma, caso a escolha tenha sido a primeira (codificar uma frase para o código Morse) aparecerá uma mensagem na tela para o usuário digitar a frase desejada e logo após, ela é transcrita em Morse.
 
-Caso a escolha do usuário seja a segunda, será ao contrario (descodificar um código morse e o transcreva em frase) a mesma mensagem aparecerá e assim finalizando a escolha com exido.
+Caso a escolha do usuário seja a segunda, será ao contrário (descodificar um código Morse e o transcreva em frase) a mesma mensagem aparecerá e assim finalizando a escolha com exido.
 
-E na terceira opçao é apenas para fechar o programa.
+E na terceira opção é apenas para fechar o programa.
 
 # Prints
 > Menu
