@@ -12,9 +12,9 @@ def Txt_to_Morse():
     print(morse)
     for m in morse:
         if m=='.':
-            pyttsx ('dit.wav')
+            pyttsx ('print')
         elif m=='-':
-            pyttsx ('dah.wav')
+            pyttsx ('print')
         else:
             time.sleep(0.5)
 
